@@ -3,7 +3,7 @@ nos ayudara a conocer la funcionalidad que tiene esta herramienta
 
 Jose Leonel Cruz
 yo aprendí que debemos de llevar un orden en cuanto los comandos
-ya que podemos tener conflicto
+ya que podemos tener conflicto..
  
 Fernando josé Vega Gudiel
 yo aprendí a usar varios comando para editar un repositorio en GitHub 
